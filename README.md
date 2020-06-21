@@ -1,2 +1,2 @@
 # sudonerd
-newsletter cams
+Newsletter CMS
